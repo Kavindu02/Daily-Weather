@@ -211,5 +211,5 @@ Contributions are welcome! Here's how you can help:
 If you find any bugs, please [open an issue](https://github.com/yourusername/daily-weather/issues).
 
 ## 👨‍💻 Author
-
+ 
 Kavindu Rathnayaka
